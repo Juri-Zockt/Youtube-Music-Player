@@ -1,5 +1,6 @@
 # Youtube-Music-Player
-It's a GUI Musicplayer
+It's a GUI Music-Player
+
 ## What i used
 ```
 PySimpleGUI     pip install PySimpleGUI   or   pip3 install PySimpleGUI
