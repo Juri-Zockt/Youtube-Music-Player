@@ -10,7 +10,7 @@ ytmusic = YTMusic()
 
 layout = [
         [sg.Text("Youtube Music-Musicplayer")],
-        [sg.Text("Enter the Title (maybe with the Artist) here: "), sg.InputText()],
+        [sg.Text("Enter the Title (maybe with the Artist) here:"), sg.InputText()],
         [sg.Button("Play!"), sg.Button("Pause") ,sg.Button("Stop")],
         [sg.Text(key="-Playing-")]
 ]
